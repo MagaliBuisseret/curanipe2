@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 23 August, 2018 11:26 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.7 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 16MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20180823_curanipe_4534c235be2a2daa2361180823232618_database.sql 
+SQL FILE SIZE: 489.89KB (501652) 
+SQL FILE TIME: 2018-08-23 23:26:23 
+SQL RUNTIME: 0.09 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/magalibuisseret/wordpress 
+ARCHIVE FILE: 20180823_curanipe_4534c235be2a2daa2361180823232618_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	52.9MB 
+STATS:	Dirs 309 | Files 2,082 
+SQL ADDED: 20180823_curanipe_4534c235be2a2daa2361180823232618_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2391
+    [filename] => /Users/magalibuisseret/wordpress/wp-snapshots/tmp/20180823_curanipe_4534c235be2a2daa2361180823232618_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 26.41MB 
+ARCHIVE RUNTIME: 8.55 sec. 
+MEMORY STACK: 18MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Users/magalibuisseret/wordpress/wp-snapshots/tmp/20180823_curanipe_4534c235be2a2daa2361180823232618_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 489.89KB 
+Installer File: 445.87KB 
+Archive File: 26.41MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 9.51 sec.
+PEAK PHP MEMORY USED: 18MB
+DONE PROCESSING => 20180823_curanipe 23 August, 2018 11:26 pm
+ 
